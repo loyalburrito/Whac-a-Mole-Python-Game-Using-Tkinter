@@ -1,7 +1,7 @@
 
 # Whac-A-Mole Game 
 
-A fun GUI-based Whac-A-Mole game built using Python's `tkinter` and `pygame` libraries.
+A fun GUI-based Whac-A-Mole game built using Python's `tkinter` and `pygame` libraries!
 
 ## Features
 
